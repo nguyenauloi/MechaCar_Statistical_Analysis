@@ -31,7 +31,7 @@ Module 15
 <img src="https://github.com/nguyenauloi/MechaCar_Statistical_Analysis/blob/main/resources/images/Deliverable%203%20ttest%201500.PNG" width="600">
 
 ### Lot 1 T-Test
-<img src="https://github.com/nguyenauloi/MechaCar_Statistical_Analysis/blob/main/resources/images/Deliverable%203%20ttest%201500%20lot%201.PNG" width="400>
+<img src="https://github.com/nguyenauloi/MechaCar_Statistical_Analysis/blob/main/resources/images/Deliverable%203%20ttest%201500%20lot%201.PNG" width="400">
 
 ### Lot 2 T-Test
 <img src="https://github.com/nguyenauloi/MechaCar_Statistical_Analysis/blob/main/resources/images/Deliverable%203%20ttest%201500%20lot%202.PNG" width="400">
