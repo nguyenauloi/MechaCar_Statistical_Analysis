@@ -24,3 +24,21 @@ Module 15
 <img src="https://github.com/nguyenauloi/MechaCar_Statistical_Analysis/blob/main/resources/images/Deliverable%202%20lot_summary.PNG" width="600">
 
  - From looking at the total summary information we can that the variance falls below the variance of 100 PSI recommended by company, but upon further investigation we see that the major contributor to this variance is lot 3. Since this lot exceeds to 100 PSI design specifications, it would be best to investigate this lot's practices before moving forward. 
+
+# Deliverable 3
+## T-Tests on Suspension Coils
+### T-Test Across All Manufacturing Lots
+<img src="https://github.com/nguyenauloi/MechaCar_Statistical_Analysis/blob/main/resources/images/Deliverable%202%20Summary.PNG" width="600">
+
+### Lot 1 T-Test
+<img src="https://github.com/nguyenauloi/MechaCar_Statistical_Analysis/blob/main/resources/images/Deliverable%202%20Summary.PNG" width="400>
+
+### Lot 2 T-Test
+<img src="https://github.com/nguyenauloi/MechaCar_Statistical_Analysis/blob/main/resources/images/Deliverable%202%20Summary.PNG" width="400">
+
+### Lot 3 T-Test
+<img src="https://github.com/nguyenauloi/MechaCar_Statistical_Analysis/blob/main/resources/images/Deliverable%202%20Summary.PNG" width="400">
+
+We are able to see that the t-test across all manufacturing lots produced a p-value of 0.06 when measured against the population mean of 1500 PSI. Yet when we do t-tests across individual lots we get a different story. Lots 1 and 2 show values above our first t-test, but lot 3's p-value is lower. This alone is not enough to reject the null hypothesis as most of our lots have adequate numbers, but lot 3's standing continues to of concern. 
+
+# Deliverable 4
